@@ -1,3 +1,3 @@
-# my-first-binder
+# my-python-binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wicky-dot/my-first-binder/master?urlpath=lab)
 
