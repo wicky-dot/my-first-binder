@@ -9,3 +9,4 @@ dependencies:
     - matplotlib
     - pandas
     - thinc
+    - jupyter_nbextensions_configurator
